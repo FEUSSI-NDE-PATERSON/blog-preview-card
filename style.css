@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding:0;
+}
+html{
+    box-sizing: content-box;
+    overflow: hidden;
+}
+.cart{
+    box-shadow: 6px 4px 10px 4px black;
+}
